@@ -1,2 +1,3 @@
-# mapbox-sandbox
-Sandbox機能検証
+# kuriyan1204.github.io
+
+GitHub Pages for my account.
