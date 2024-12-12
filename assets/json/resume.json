@@ -1,18 +1,27 @@
 {
   "work": [
     {
+      "name": "Kotoba Technologies, Inc.",
+      "position": "Founding ML Engineer",
+      "location": "Chiyoda, Tokyo",
+      "startDate": "2024-10-01",
+      "endDate" : "2025-03-31",
+      "summary": "Building audio foundation models."
+    },
+    {
       "name": "Apple Inc.",
       "position": "Software Engineer Intern",
       "location": "Cupertino, CA",
       "startDate": "2024-05-27",
       "endDate": "2024-09-27",
-      "summary": "Working on NLP related projects at Internalization NLP team, Input Experience."
+      "summary": "Worked on NLP related projects at Internalization NLP team, Input Experience."
     },
     {
       "name": "Kotoba Technologies, Inc.",
       "position": "Research & Machine Learning Engineer Intern",
       "location": "Chiyoda, Tokyo (Hybrid)",
       "startDate": "2023-10-01",
+      "endDate" : "2024-03-31",
       "summary": "Working on NLP related projects, such as LM training of Mamba."
     },
     {
@@ -36,10 +45,19 @@
       "position": "Machine Learning Engineer Intern",
       "location": "Sendai, Miyagi",
       "startDate": "2022-01-01",
+      "endDate" : "2023-09-30",
       "summary": "Working on the data-centric AI SDK development."
     }
   ],
   "education": [
+    {
+      "institution": "Tohoku University",
+      "location": "Miyagi, Japan",
+      "area": "Information Science",
+      "studyType": "Ph.D. in Information Science",
+      "startDate": "2024-10-01",
+      "endDate": "2027-09-30"
+    },
     {
       "institution": "Tohoku University",
       "location": "Miyagi, Japan",

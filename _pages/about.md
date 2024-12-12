@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 profile:
@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a 2nd-year M.S. student in the [TohokuNLP group](https://www.nlp.ecei.tohoku.ac.jp/). My research interests lie broadly at the intersection of NLP and ML. I'm currently based in Cupertino, CA, working as a software engineering intern at Apple for the summer.
+I'm a first-year Ph.D. student in the [TohokuNLP group](https://www.nlp.ecei.tohoku.ac.jp/). My research interests lie broadly at the intersection of NLP and ML. Also, I'm a founding ML engineer at [Kotoba Technologies](https://www.kotoba.tech), building audio foundational models. I was a Software Engineer Intern at Apple in Summer 2024, worked with NLP-related projects.
