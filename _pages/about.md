@@ -12,7 +12,10 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-I'm a first-year Ph.D. student in the [TohokuNLP group](https://www.nlp.ecei.tohoku.ac.jp/). My research interests lie broadly at the intersection of NLP and ML. Additionally, I'm a founding ML engineer at [Kotoba Technologies](https://www.kotoba.tech), where I build audio foundational models. I was a Software Engineer Intern at Apple in Summer 2024, working on NLP-related projects.
+I'm a Ph.D. student at [TohokuNLP group](https://www.nlp.ecei.tohoku.ac.jp/) and a founding ML engineer at [Kotoba Technologies](https://www.kotoba.tech).
+I'm interested in efficient LM training/inference/deployment and their underlying principles.
+
+You can find me at [X](https://twitter.com/hiroto_kurita), [linkedin](https://www.linkedin.com/in/hiroto-kurita/), and [github](https://github.com/kuriyan1204).
