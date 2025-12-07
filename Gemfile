@@ -19,7 +19,6 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'mini_racer'
-    gem 'observer', '~> 0.1'
     gem 'unicode_utils'
     gem 'webrick'
 end
