@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://kuriyan1204.github.io/sitemap.xml
